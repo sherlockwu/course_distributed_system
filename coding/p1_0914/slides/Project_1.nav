@@ -1,0 +1,46 @@
+\beamer@endinputifotherversion {3.36pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Timing}{3}{Timing}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Record your timing during loop and simple statements}}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{Record your timing during loop and simple statements}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\sectionentry {2}{Using My Timer}{4}{Using My Timer}{0}}
+\headcommand {\beamer@sectionpages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Verify Jeff Dean's numbers}}\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\slideentry {2}{1}{1}{4/4}{Verify Jeff Dean's numbers}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\sectionentry {3}{Reliable Communications}{5}{Reliable Communications}{0}}
+\headcommand {\beamer@sectionpages {4}{4}}
+\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{5}{Interfaces and Reliable Design}}\headcommand {\beamer@subsectionpages {5}{4}}
+\headcommand {\slideentry {3}{1}{1}{5/5}{Interfaces and Reliable Design}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{6}{Performance and Reliability}}\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\slideentry {3}{2}{1}{6/6}{Performance and Reliability}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {3}{2}{2}{7/7}{Performance and Reliability}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {3}{2}{3}{8/8}{Performance and Reliability}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\sectionentry {4}{Google RPC and Apache Thrift}{9}{Google RPC and Apache Thrift}{0}}
+\headcommand {\beamer@sectionpages {5}{8}}
+\headcommand {\beamer@subsectionpages {6}{8}}
+\headcommand {\slideentry {4}{0}{1}{9/9}{}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {4}{0}{2}{10/10}{}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {4}{0}{3}{11/11}{}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {4}{0}{4}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@partpages {1}{12}}
+\headcommand {\beamer@subsectionpages {9}{12}}
+\headcommand {\beamer@sectionpages {9}{12}}
+\headcommand {\beamer@documentpages {12}}
+\headcommand {\def \inserttotalframenumber {12}}

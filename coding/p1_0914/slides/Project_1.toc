@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Timing}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Record your timing during loop and simple statements}{3}{0}{1}
+\beamer@sectionintoc {2}{Using My Timer}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Verify Jeff Dean's numbers}{4}{0}{2}
+\beamer@sectionintoc {3}{Reliable Communications}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{Interfaces and Reliable Design}{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Performance and Reliability}{6}{0}{3}
+\beamer@sectionintoc {4}{Google RPC and Apache Thrift}{9}{0}{4}

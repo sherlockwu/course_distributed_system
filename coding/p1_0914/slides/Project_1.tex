@@ -1,0 +1,125 @@
+\documentclass{beamer}
+\mode<presentation> {
+\usetheme[compactlogo, white]{Wisconsin}
+}
+
+\usepackage{graphicx} % Allows including images
+\usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
+
+
+%----------------------------------------------------------------------------------------
+%   TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title[Project 1 - Measurement]{Use Graph to Talk About Measurement of Different Communication Abstractions in Distributed System} % The short title appears at the bottom of every slide, the full title is only on the title page
+
+\author{Kan Wu} % Your name
+\institute[UW-Madison] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+{
+University of Wisconsin, Madison \\ % Your institution for the title page
+\medskip
+\textit{kanwu@cs.wisc.edu} % Your email address
+}
+\date{\today} % Date, can be changed to a custom date
+
+
+\begin{document}
+% Few starting pages 
+    \begin{frame}
+        \titlepage % Print the title page as the first slide
+    \end{frame}
+
+    \begin{frame}
+        \frametitle{Overview} % Table of contents slide, comment this block out to remove it
+        \tableofcontents % Throughout your presentation, if you choose to use \section{} and \subsection{} commands, these will automatically be printed on this slide as an overview of your presentation
+    \end{frame}
+
+
+% Begin each section 
+\section{Timing}
+    \subsection{Record your timing during loop and simple statements}
+    \begin{frame}
+        \frametitle{Record your timing during loop and simple statements}
+        It proves clock\_gettime is precise enough to catch time difference even between 2 or 3 mov like assembly code.
+
+    \end{frame}
+
+
+   
+\section{Using My Timer}
+    \subsection{Verify Jeff Dean's numbers}
+    \begin{frame}
+        \frametitle{Verify Jeff Dean's numbers}
+        Use our function or other methods to measure some numbers in Jeff Dean's paper. 
+
+        
+    \end{frame}
+
+\section{Reliable Communications}
+    \subsection{Interfaces and Reliable Design}
+    \begin{frame}
+        \frametitle{Interfaces and Reliable Design}
+        This part is to overview my measurement of our communication library.
+
+        
+
+    \end{frame}
+    \subsection{Performance and Reliability}
+    \begin{frame}
+        \frametitle{Reliable Communications: Performance}
+        Overhead and RTT. 
+
+        \begin{itemize}
+            \item Overhead of sending  
+            \item RRT
+            \item Single of Two machines?
+            \item Bandwitdh and analysis 
+
+        \end{itemize}
+    \end{frame}
+    \begin{frame}
+        \frametitle{Reliable Communications: Performance}
+        Bandwidth. 
+
+        What limits my bandwidth: 
+
+    \end{frame}
+    
+    \begin{frame}
+        \frametitle{Reliable Communications: Reliability}
+        This part is to overview my measurement of our communication library.
+
+        Compiler didn't influence my code large. 
+
+  
+    \end{frame}
+
+
+
+\section{Google RPC and Apache Thrift}
+    \begin{frame}
+        \frametitle{Marshalling a Message}
+        Method: SerializetoString, SendMessageBegin ... 
+     
+    \end{frame}
+    \begin{frame}
+        \frametitle{RTT Measuring}
+        Echo Server
+
+     
+    \end{frame}
+    \begin{frame}
+        \frametitle{BindWidth Measuring}
+        
+
+     
+    \end{frame}
+    \begin{frame}
+        \frametitle{Compiler Difference}
+        
+
+     
+    \end{frame}
+    
+
+\end{document}
